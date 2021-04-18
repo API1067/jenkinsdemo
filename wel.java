@@ -11,5 +11,6 @@ System.out.println("Jenkins test");
 System.out.println("Variable test via jenkins");
 System.out.println("Variable test via jenkins2");
 System.out.println("test ");
+System.out.println("test2 ");
 }
 }
